@@ -1,3 +1,16 @@
 ul {
     list-style: none;
 }
+body {
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+header {
+    border: 1px solid black;
+    width: 100vh;
+}
+main {
+    border: 1px solid black;
+    width: 100vh;
+}
